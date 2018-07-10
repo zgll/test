@@ -1,2 +1,2 @@
 # test
-time 毕业季
+time: 毕业季
